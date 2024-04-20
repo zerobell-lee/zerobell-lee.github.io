@@ -1,12 +1,9 @@
 +++
-title = 'My First Post'
+title = '블로그 시작'
 date = 2024-04-20T15:48:39+09:00
 draft = false
 +++
 
-This is test post for Hugo.
+이 블로그는 Hugo로 만들어졌습니다.
 
-# Hello
-
-## Hello 2
-
+ㅅㄱ
